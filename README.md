@@ -1,6 +1,17 @@
 # AngularExpress
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+How many with the following libraries for express:
+
+bcrypt-nodejs
+body-parser
+connect-multiparty
+jwt-simple
+moment
+
+#Installation
+1. npm install -g @angular/cli --save
+2. npm install
 
 ## Development server
 
